@@ -97,7 +97,73 @@ Son equipos Holocráticos:
 - Polinización cruzada: personas con diferentes formaciones y diferentes disciplinas. 
 - Proceso de experimentación continuo. 
 
-  
+
+## Qué es la empatia? 
+Todo comieza con la empatía. No es solo pensar "en lo que creemos que puede pensar y/o sentir el otro"
+Se trata de "apagar" nuestro pensamiento y preguntar mucho **cuál es su visión | qué es lo que ve?**
+**Hay que poner en pausa nuestro sentido común**
+**Los problemas del usuario son mis problemas**
+**Si los usuarios no pueden escribir, es nuestro problema. Si no saben hacer una consulta, es nuestro problema, si no sabern qué palabra usar, es nuestro problema, si no pueden hablar el lenguaje es nuestro problema. Atte: Google**
+### Qué pasa si no testeamos
+- Control remoto de Samsumg vs de Appel tv
+
+## Primer paso: Identificar al usuario: 
+De nuevo el valor de entender el [Circulo de oro](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=es)
+
+**"No existe nada más inútil que crear con eficiencia un producto que no deberia haber sido producido"**
+
+### Cómo descubrimos las necesidades:
+#### Qué
+- ¿Qué hacemos?.
+- Caracteristicas.
+- el lo último.
+#### Cómo 
+- ¿Cómo hacemos lo que hacemos?.
+- La UX.
+#### ¿Por qué?
+- ¿Por qué lo hacemos así?.
+- Utilidad vinculada al necesidad.
+
+## Metodologías de Investigación
+- Observación dentro del contexto del usuario.
+- ser el usuario. (consumidor misterioso) 
+- Entrevistas en profundida (semiestructuradas)
+
+### Entrevistas en profundidad: 
+- Se comienza con los usuarios extremos. 
+- Entrevistar a los expertos (de temas particulares que salen en el proceso de las entrevistas).
+- ¿A cuántos? hasta la saturación teórica. Ó hasta que encontramos patrones. De ahí en adelante ya no encuentro información "relevante".
+
+### Definir la muestradiseñar el camino de la entrevista a profundida: 
+- Presentación: Como nos presentamos va a predisponer a nuestros usuarios. 
+- Rompe hielo: Conversación para entrar en confianza. 
+- Preguntas concretas: Faciles de contestar en relacion al tema. 
+- Preguntas más profundas: ++importante.Sobre aspiraciones, esperanzas, miedo, necesidades.
+- Preguntas abiertas: ++importante. historias sobre las preguntas: ayudame a entender más sobre, contame sobre...
+- Cierre: Gracias por el tiempo
+### Consejos: 
+- Grabar tanto el audio como el video. (para evidenciar)
+  - al usuario que se niegue: hacerle ver que queremos ser fiel su manifestación/testimonio y no interpretar. 
+- fotos.
+- tomar notas de las intepretaciones. Buscar y detectar patrones.
+- Vaciar el cerebro, sin creencias, sin predisposiciones. 
+- Las respuestas no las podemos intepretar con nuestras teorias, creencias y conviciones. 
+**"Lo que el hombre mejor sabe hacer es interpretar la nueva información para que sus conclusiones permanezcan intactas. Warren Buffett"**
+- hacerca el tonto.
+- dejar al usuario que sea el experto.
+- Escuchar con atención.
+- me podes mostrar y no: "cómo te sentis".
+- escuchar las historias **insights**.
+- diseñar actividades "Cómo lo recuerdas? lo puedes dibujar?"
+- columnas de "si" y "no".
+
+
+
+
+
+
+
+
 
 
 
