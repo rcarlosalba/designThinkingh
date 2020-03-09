@@ -134,14 +134,14 @@ De nuevo el valor de entender el [Circulo de oro](https://www.ted.com/talks/simo
 - Entrevistar a los expertos (de temas particulares que salen en el proceso de las entrevistas).
 - ¿A cuántos? hasta la saturación teórica. Ó hasta que encontramos patrones. De ahí en adelante ya no encuentro información "relevante".
 
-### Definir la muestradiseñar el camino de la entrevista a profundida: 
+#### Definir la muestradiseñar el camino de la entrevista a profundida: 
 - Presentación: Como nos presentamos va a predisponer a nuestros usuarios. 
 - Rompe hielo: Conversación para entrar en confianza. 
 - Preguntas concretas: Faciles de contestar en relacion al tema. 
 - Preguntas más profundas: ++importante.Sobre aspiraciones, esperanzas, miedo, necesidades.
 - Preguntas abiertas: ++importante. historias sobre las preguntas: ayudame a entender más sobre, contame sobre...
 - Cierre: Gracias por el tiempo
-### Consejos: 
+#### Consejos: 
 - Grabar tanto el audio como el video. (para evidenciar)
   - al usuario que se niegue: hacerle ver que queremos ser fiel su manifestación/testimonio y no interpretar. 
 - fotos.
@@ -157,7 +157,29 @@ De nuevo el valor de entender el [Circulo de oro](https://www.ted.com/talks/simo
 - diseñar actividades "Cómo lo recuerdas? lo puedes dibujar?"
 - columnas de "si" y "no".
 
+### Detectar oportunidades: Hallazgos y patrones. 
+No es momento de proponer soluciones, estamos viendo la "panoramica" de la situación.
+Las obervaciones, visitas de campo, entrevistas en profundidad sirven para encontrar un signifcado profundo y oportunidades de diseño accionables.
+- Identificar los patrones de conducta. 
+- [Identificar la pregunta correcta.](https://www.criticalthinking.org/resources/PDF/SP-AskingQuestions.pdf) 
 
+#### Cómo procesar la información 
+Se transcriben las entrevistas y luego con resaltador de un color por cada uno de los temas se indentifican:
+1. Sumergirse en los resultados
+- **Hechos** datos relevantes para entender el contesto o al usuario.
+- **Pain points** puntos de dolor o situaciones no deseadas, tienen que ser expresadas explisitamente por los usuarios
+- **Bliss points** puntos de felicidad o situaciones deseadas.
+- **Workarounds** soluciones informales a problemas actuales ¿Qué hacen ya los usuarios para resolver el problema? 
+- **Dilemas** Cuando se desean dos cosas que parecen incompatibles.
+- **Ideas** soluciones propuestas por los usuarios.
+Archivos de bajada de entrevistas y bajada de observaciones
+2. Identificar patrones y diferencias que puedan ser oportunidades. (Marcos de referencia)
+Organizar el recurso de visualización más fuerte, que mejor sirva para organizar. 
+- Mapa mental o mapa conceptual.
+- por tema o malla 
+- jerargico de temas ¿qué desata qué?
+3. Extraer insights 
+es una síntesis una expresión concisa de lo que se ha aprendido a través de la investigación. Son hallazgos que representan información inesparada que nos obliga a prestar atencipon y sin el catalizador para nuevas ideas. 
 
 
 
