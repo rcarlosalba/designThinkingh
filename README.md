@@ -181,11 +181,39 @@ Organizar el recurso de visualización más fuerte, que mejor sirva para organiz
 3. Extraer insights 
 es una síntesis una expresión concisa de lo que se ha aprendido a través de la investigación. Son hallazgos que representan información inesparada que nos obliga a prestar atencipon y sin el catalizador para nuevas ideas. 
 
+## Proponer soluciones
+### ideación
+#### encontrar el problema
+- empatizare con los usuaios (divergencia)
+- detectar oportunidades (convergencia)
+#### encontrar la solucion 
+- idear soluciones (divergencia)
+- tangibilizar ideas (convergencia)
+- cocrear con usuarios (convergencia)
 
+**"En un mundo deonde el futuro es más impredecible que nunca, la creatividad es la clave para poder navegar eventus distruptivos e inesperados"**
+**"No sobreviven las especies más fuertes ni las más inteligentes si no los que mejor se adaptan al cambio"**
+**"La creatividad  nos permite capacidad de adaptación, es la medida de nuestra resilencia"**
+**Resilencia** capacidad de un sistemas para recuperar el eq uilibrio despues de haber sufrido una perturbacuón. Y en biogía aprende y evita. 
+**"La creatividad no es sólo para artistas, es vital para las organizanizaciones, se vielve un pre-requisito para el desarrollo de una crecimiento sosotenido. Ben de Vries, Ericsson"**
+### Distintas formas de ser creativo 
+- fluidez: sugen muchas ideas similares, son todas parecedias.
+- flexibilidad: muchas ideas diferentes.
+- Elaboración: ideas con un alto nivel de detalle y dedidación a cada una. 
+- Radical: una idea completamente diferente a las otras, unica. 
 
+### Los 4 estados mentales y la creatividad
+1 Beta 
+Despierto, normal, alarta, conciente.
+2 Alpha
+Relajado, calmo, lúcido, sin pensar (Aquí esta la clave).
+3 Theta 
+Profundamente relajado, meditación.
+4 Delta
+Dormir sin sueños, ciclo de sueño profundo. 
 
-
-
+#### ¿Cómo definimos entonces la creatividad?
+La creatividad es muy buena memoria asociativa. Todos tenemos esta capacidad, lo que debemos hacer es nutrir las asociaciones, conectar puntos de experiencia y generar algo novedoso. Leer, viajar, conocer nuevas culturas, son ejemplos de cosas que puedes hacer para cultivar esas experiencias y tener más posibilidades y elementos para combinar y generar nuevas ideas.
 
 
 
