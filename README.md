@@ -215,6 +215,36 @@ Dormir sin sueños, ciclo de sueño profundo.
 #### ¿Cómo definimos entonces la creatividad?
 La creatividad es muy buena memoria asociativa. Todos tenemos esta capacidad, lo que debemos hacer es nutrir las asociaciones, conectar puntos de experiencia y generar algo novedoso. Leer, viajar, conocer nuevas culturas, son ejemplos de cosas que puedes hacer para cultivar esas experiencias y tener más posibilidades y elementos para combinar y generar nuevas ideas.
 
+## Cómo hacer una lluvia de ideas
+Tiene que estar conectada con la necesidad del usuario.
+### Reglas
+- **Multiplicar** las ideas, todas las ideas, muchas ideas, pequeños propuestas que disparen otras. 
+- **No jugar** no matar las ideas, no hay malas ideas. No hay necesidad que de nadie apruebe la idea perse. 
+- **Incentivar ideas extremas** Son ideas raras las uqe frecuentmente proveen pensamientos disruptivos. 
+- **Mantener el foco** se valen las ideas locas pero relacionadas con el tema en discusión. 
+- **valorar los puntos de vista** otra idea puede arreglar mi idea y lo contrario tambien es cierto. 
+      **Hablar - Escuchar - Escribir** debe ser con equilibrio.
+- **Esencial pero específico** concreto, específico, no ambiguo.
+- **Ser visual** dibujar, o letra clara por lo menos.
+- **Una conversación a la vez** no es policia, es un moderador, ordena, todo debe ser escuhado pero todos con la misma participación.
+- **Pregunta disparadora** Preguntas basadas en los insight, lo suficientemente amplia para todas las ideas, pero lo suficientemente concreto para "aterrizar la idea".
+      **La pregunta guia manda. **
+## Qué es una propuesta de valor
+Debe responder a la necesidad del usario ¿tiene impacto? ¿resuleve la necesidad? 
+Las preguntas claves son: 
+- ¿Cuál es la necesidad a la que responde mi idea? 
+- Cómo se benficio mi usuario? (¿Cómo se transforman los puntos de dolor?)
+- ¿Cuál es el valor diferencial? ¿Qué distingue mi idea de las existentes o de las competencia?
+
+## QUé es Benchmark 
+Es la práctica de observar las tendencias actuales para inspirarse a mejorar mis ideas. 
+Claves: 
+- Googlear. (palabras claves, busquedas relacionadas)
+- Abrirse al mundo (buscar ideas en paises y organizaciones)
+- Casos de éxito (y fracaso)
+- Buscar fuera de Doogle. (libros, paper, periodicos, fuera de la PC)
+
+
 
 
 
