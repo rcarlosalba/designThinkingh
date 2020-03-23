@@ -236,13 +236,87 @@ Las preguntas claves son:
 - Cómo se benficio mi usuario? (¿Cómo se transforman los puntos de dolor?)
 - ¿Cuál es el valor diferencial? ¿Qué distingue mi idea de las existentes o de las competencia?
 
-## QUé es Benchmark 
+## Qué es Benchmark 
 Es la práctica de observar las tendencias actuales para inspirarse a mejorar mis ideas. 
 Claves: 
 - Googlear. (palabras claves, busquedas relacionadas)
 - Abrirse al mundo (buscar ideas en paises y organizaciones)
 - Casos de éxito (y fracaso)
-- Buscar fuera de Doogle. (libros, paper, periodicos, fuera de la PC)
+- Buscar fuera de Google. (libros, paper, periodicos, fuera de la PC)
+
+## ¿Por qué es importantate prototipar?
+Prototipar es la forma de tangilizar las ideas. Es la forma de co-crear con el usuario y ver si responde a la necesidad que pretendemos resolver. 
+El prototipo es un MMV (Modelo Mínimo Viable) fallar barato, fallar rápido.
+Debe ser iterativo y veloz. 
+
+### ¿Cómo hacer un buen prototipo? 
+1 Comprender tu próposito y a la audiencia. 
+2 Prototipar solo lo necesario. 
+3 Valorar las imprefecciones.
+4 Generar por lo menos vrsión A B.
+5 Cuidar los recursos (no solo dinero, T I E M P O)
+6 Ser ágil. Falla rapido falla barato. 
+
+### ¿Qué puede prototiparse? 
+¡T O D O!
+
+## Co-Creación y cómo validar
+Gerera valor para las personas, éxito para las organizaciones.
+**El diseño en ausencia de contenido es decoración.**
+### Cómo testear
+1 Presencial: 
+- Sesiones indivifuales con el prototipo, la idea es que interactue.
+- Sesiones grupales. No más de 10 personas. 3 personales es ideal. Se proponen actividades.
+- Test A B 
+- Test de usabilidad, se buscan las falla o mejoras posibles para que la UX sea mejor
+
+Consejos: 
+- El Usuario es el experto, dejar que haga para ver si la idea funciona. Es la forma de co-crear.
+- Narrame lo que pasa. Narra el proceso. 
+- Mostrame, dicime, hace, cómo haces, por qué (nos da la razones para mejorar). 
+- Documentar el feedbak 
+- Buena muestra. Una buena muestra nos da un buen resultado. (uno 10 testeos)
+- Detectar la necesidad del feedback
+- No aceptar la frustración por que no "funciona" cómo esperamos. Lo que "no funciona" es parte de falla rapido falla barato.
+
+2 A distancia: 
+- Encuestas (Google Form)
+- UserTesting (Plataforma de pago)
+- Muestra chica
+- EL caso de tinder (se libera a un grupo, unos 50 y sobre ellos se decide)
+- Crowdfunding 
+
+## Cómo presentar la idea
+- El pitch del elevador. 
+- La clave es el por qué
+  - por qué
+  - cómo 
+  - qué
+Niveles del Pitch
+- Contenido ¿Qué?
+- Forma ¿Cómo?
+
+¿Qué hacer? 
+- Contar el propósito de la presnetación ¿por qué debe interesarles?
+- ¿Qué idea dejar antes de salir del escenario? 
+- Centrarse en el usario = evidenciar que estamos centrados en el usuario
+- Prácticar
+- Gestión de tiempo. EL discurso debe ser breve. 
+- Tono y postura
+¿Qué no hacer? 
+- Dar la espalda 
+- Ni muy rápido y muy despacio 
+- Moverse demasiado en el escenario 
+- No moverse
+- Detenerse en los ejemplo y no avanzar
+- Mirar de frente a todos y no todo el tiempo a uno 
+
+Peliculas: 
+Design & Thinking
+Objectified
+Design the new business
+teaching to see
+objectified 
 
 
 
