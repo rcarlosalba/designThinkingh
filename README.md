@@ -56,13 +56,13 @@ Teorías del comportamiento: Nudge - Refuerzo positivo.
 
 ## Proceso de Design Thinking
 Un proceso de 5 pasos divididos en dos partes. 
-- Primera parte:
+- **Primera parte:**
 Encontrar problemas.
   - Paso uno: 
 Empatizar con el usuario, entender el contexto. Se usan metologías cualitativas de investigación para entender a fondo. 
   - Paso dos:
 Detectar oortunidades. Descargar toda la data. para Entender los hechos, los puntos de dolor o situaciones no deseadas, los puntos de felicidad, las soluciones alternas, los dilemas y las ideas que los usuarios proponen. 
-- Segunda parte: 
+- **Segunda parte:** 
 Pensar en soluciones. 
   - Paso tres:
 Proponer soluciones según el contexto del usuario, es momento de ser creativos. 
@@ -100,10 +100,11 @@ Son equipos Holocráticos:
 
 ## Qué es la empatia? 
 Todo comieza con la empatía. No es solo pensar "en lo que creemos que puede pensar y/o sentir el otro"
-Se trata de "apagar" nuestro pensamiento y preguntar mucho **cuál es su visión | qué es lo que ve?**
-**Hay que poner en pausa nuestro sentido común**
-**Los problemas del usuario son mis problemas**
-**Si los usuarios no pueden escribir, es nuestro problema. Si no saben hacer una consulta, es nuestro problema, si no sabern qué palabra usar, es nuestro problema, si no pueden hablar el lenguaje es nuestro problema. Atte: Google**
+Se trata de "apagar" nuestro pensamiento y preguntar mucho **cuál es su visión | qué es lo que ve?**.
+**Hay que poner en pausa nuestro sentido común**.
+**Los problemas del usuario son mis problemas**.
+**Si los usuarios no pueden escribir, es nuestro problema. Si no saben hacer una consulta, es nuestro problema, si no saben qué palabra usar, es nuestro problema, si no pueden hablar el lenguaje es nuestro problema. Atte: Google**.
+
 ### Qué pasa si no testeamos
 - Control remoto de Samsumg vs de Appel tv
 
