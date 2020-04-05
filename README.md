@@ -365,6 +365,53 @@ objectified
  - Ayuda y documentación: todo lo necesario para resolver los problemas (debe ser facil) 
 
 
+## Entender el problema y Las 5 W
+Who, What, Where, When, Why
+Quién, Qué, Dónde, Cuándo, por qué 
+
+## Tipos de investigación
+Formal 
+  AB Testing
+  Analitys
+  Entrevistas
+  Encuestas
+Informal 
+  Prueba Remota
+  Design Wordl 
+Cualitativo 
+  Cuando 
+  Con que frecuencia
+Cuantitativo  
+  Observaciones
+  Comentarios
+  Sensaciones
+
+## Brenchmarking 
+Analizamos y comparamos a la competencia
+  Qué hacen los cometidores
+  Que funciona y que no 
+  Excpectativas de los usuarios
+  Qué debe funcionar
+  Modelos de negocio que no estan siendo aprovechadas
+  Mejoras de interfaz
+  Patrones de diseño. 
+
+## UserResearch: Encuestas y Entrevistas
+Google Form 
+Typeform
+Inclusivas (genero)
+Abiertas (Agregar la opción otro)
+Claras
+Más allá de nuestros ojos (mascota, coche, roomie)
+Script y método de grabación (audio y voz)
+
+## User Persona
+Son representaciones de nuestro usuario más común o ideal 
+Parte del user research 
+Historia, Personlidad, Objetivos, Motivaciones, Barreras, datos sociodemograficos
+
+
+
 
 
 
