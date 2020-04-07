@@ -410,8 +410,31 @@ Son representaciones de nuestro usuario más común o ideal
 Parte del user research 
 Historia, Personlidad, Objetivos, Motivaciones, Barreras, datos sociodemograficos
 
+## Interfaces de Exito 
+- Navegacion clara
+- formularios claros 
+- Jerarquia clara 
+- imagenes que ilustran los testos 
+- botones de acción cerca 
+- Navegación clara 
+- Productos claro, precios, caracteristiscas base y otras 
+- Muchas imagenes
+- iconografia clara 
 
+## Arquitectura de la información 
+## Patrones de UI
+Solución probada a un problema comú8n 
+- Resuelven probelmas comunes
+- Reusables
+- Comportamiento conocido por el suuario 
+- Lenguaje comun entre diseñadores
 
+## Guerrilla testing 
+- Puede ser en papel con wireframes (a mano) 
+- el usuario debe realizar un flujo corto
+- de 8 a 10 usuaruis 
+
+toda la interaccion es por medio del wireframe 
 
 
 
