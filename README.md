@@ -330,21 +330,21 @@ objectified
   - medianil: espacio entre columnas.
  Para weeb se recomeindo 12 columa y tablet 8 columnas, moviles 4 columnas. 
 - Tipografia: con tdas sus variaciones.
-  -Serif: remates al final de los caracteres (serifas) serías o sobrias. 
-  -San serif: mas geometricas y dionamicas.
-  -Monospace: todos los caracteres tienen el mismo ancho. 
-  -scripts o decorativas: emoula el trazado a mano.
+  - Serif: remates al final de los caracteres (serifas) serías o sobrias. 
+  - San serif: mas geometricas y dionamicas.
+  - Monospace: todos los caracteres tienen el mismo ancho. 
+  - scripts o decorativas: emoula el trazado a mano.
  Recomendaciones: máximo 3 tipográficas. Asegurarnos que sean legibles en todos los tamños, evitar los tamáños muy pequeños. 
  Columna: 66 caracteres por columna. 
  Internilineado: 1 + 20%
  Buen contraste: Qué de accesibilidad. 
  
- Principios de Gestal y UX: 
- Principio de semejansa: tendemos a agrupar elementos similares. Aunque no esten juntos, forma, tamaño, color.
- Proximidad: elementos alineados y organizados en un mismo espacios tendemos a verlos como grupo.
- Continuidad: lo que vemos alineado en una línea recta o una curva de forma ordenada los vemos agrupados (contrario si el orden es al azar) 
- Relación de figura fondo: La forma es el enfoque el fondo lo vemos pero no tienen relevancia. Nos permite mostrar profundad y dar jerarquia. 
- Principio de cierre: el cerebro llena los espacios abiertos. 
+ ### Principios de Gestal y UX: 
+ - Principio de semejansa: tendemos a agrupar elementos similares. Aunque no esten juntos, forma, tamaño, color.
+ - Proximidad: elementos alineados y organizados en un mismo espacios tendemos a verlos como grupo.
+ - Continuidad: lo que vemos alineado en una línea recta o una curva de forma ordenada los vemos agrupados (contrario si el orden es al azar) 
+ - Relación de figura fondo: La forma es el enfoque el fondo lo vemos pero no tienen relevancia. Nos permite mostrar profundad y dar jerarquia. 
+ - Principio de cierre: el cerebro llena los espacios abiertos. 
  
  ## Leyes de UX
  - El tiempo que lleva llegar a un objetivo tiene que ver con el tamaño y la distancia del mismo. 
@@ -370,21 +370,21 @@ Who, What, Where, When, Why
 Quién, Qué, Dónde, Cuándo, por qué 
 
 ## Tipos de investigación
-Formal 
-  AB Testing
-  Analitys
-  Entrevistas
-  Encuestas
-Informal 
-  Prueba Remota
-  Design Wordl 
-Cualitativo 
-  Cuando 
-  Con que frecuencia
-Cuantitativo  
-  Observaciones
-  Comentarios
-  Sensaciones
+- Formal 
+  - AB Testing
+  - Analitys
+  - Entrevistas
+  - Encuestas
+- Informal 
+  - Prueba Remota
+  - Design Wordl 
+- Cualitativo 
+  - Cuando 
+  - Con que frecuencia
+- Cuantitativo  
+  - Observaciones
+  - Comentarios
+  - Sensaciones
 
 ## Brenchmarking 
 Analizamos y comparamos a la competencia
@@ -422,6 +422,8 @@ Historia, Personlidad, Objetivos, Motivaciones, Barreras, datos sociodemografico
 - iconografia clara 
 
 ## Arquitectura de la información 
+Esquema de organización para categorizar el contenido
+
 ## Patrones de UI
 Solución probada a un problema comú8n 
 - Resuelven probelmas comunes
