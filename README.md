@@ -428,6 +428,8 @@ Solución probada a un problema comú8n
 - Reusables
 - Comportamiento conocido por el suuario 
 - Lenguaje comun entre diseñadores
+- siempre pensar en los errores 
+- considerar los "empy state" muchos filtros que no dan resultados
 
 ## Guerrilla testing 
 - Puede ser en papel con wireframes (a mano) 
@@ -436,12 +438,31 @@ Solución probada a un problema comú8n
 
 toda la interaccion es por medio del wireframe 
 
+## Moodboard 
+buscar y guardar imagenes, colores, ideas, referencias visuales, iconografia, tipografia
+tiene que estar centrado con el user persona
+dropmark (extensión de chrome)
 
+## Responsive 
+- Diseño adaptativo: diseño para tamaños exactos
+- Responsive Desing: diseño elastico
 
+## Design system
+- Colección de componentes reusables para mantener consistencia 
+  - Atom design 
+    - Atomos: boton incono campo de texto 
+    - moleculas: dos o mas atomos, caja de busqueda, card 
+    - organismos: atomos y moleculas. conjunto de card
 
+## User testing 
+con 5 usuarios podemos encontrar el 80% de los probelams o de las mejoras
+se hace con el prototipo de alta fidelidad 
+[screencastify] (https://www.screencastify.com/)
+[LookBack] (https://lookback.io/)
 
+Grupo de control y por lo menos dos semanas
 
-
+iterar, la clave es iterar. Falla rápido, falla barato
 
 
 
